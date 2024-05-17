@@ -1,2 +1,1 @@
 "# Tlog2txt" 
-"# VentasTiendas" 
